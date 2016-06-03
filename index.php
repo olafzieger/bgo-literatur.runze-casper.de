@@ -9,7 +9,7 @@ include_once 'logic.php';
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta name="x-ua-compatible" content="IE=edge,chrome=1">
-	<title>Berlins Grüne Orte das Literaturlisten-Nennung</title>
+	<title>Titel der Seite</title>
 	<link rel="stylesheet" href="css/template.css">
 	<!-- jQuery (wird für Bootstrap JavaScript-Plugins benötigt) -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -30,8 +30,8 @@ include_once 'logic.php';
   
 <body class="" role="document">
 
-	<?php /*require_once 'html/bootstrap.test.php'; // test only - delete this line */?>
-	<?php require_once 'html/bootstrap.example.php'; // test only - delete this line ?>
+	<?php require_once 'html/bootstrap.test.php'; // test only - delete this line ?>
+	<?php /*require_once 'html/bootstrap.example.php'; // test only - delete this line */?>
 
 	<!-- 
 		YOUR CODE HERE
