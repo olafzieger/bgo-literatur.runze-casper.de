@@ -1,5 +1,5 @@
 <?php
-$renderCss = true;
+$renderCss = false;
 // css
 if ($renderCss)
 {
